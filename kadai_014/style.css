@@ -1,0 +1,47 @@
+.decoration {
+font-family: "Arial", "Meiryo", sans-serif;
+}
+
+.syoukai{
+  letter-spacing: 3em;  
+  text-shadow: 1px 2px 3px #808080; 
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.kadai1 {
+  color: rgb(255, 192, 203);
+}
+
+.kadai1_1 {
+  color: rgb(148, 227, 232);
+}
+
+hr {
+  height: 3px;
+  background: rgb(115, 115, 114);
+  border: none;
+ }
+
+.kadai2 {
+  color: rgb(255, 192, 203);
+}
+
+.kadai3 {
+  color: rgb(148, 227, 232)
+}
+
+.kadai4 {
+  color: rgb(255, 192, 203);
+}
+
+.kadai5 {
+  color: rgb(148, 227, 232)
+}
+
+.kadai6 {
+  color: rgb(255, 192, 203);
+}
+
+.kadai7 {
+  color: rgb(148, 227, 232)
+}
